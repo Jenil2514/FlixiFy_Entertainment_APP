@@ -9,8 +9,11 @@
 ## Low Fidelity Wireframe
 - [**Low Fidelity Wireframe**](https://www.figma.com/design/0HIcmkxCDcKQrrAfDRiC7n/Low_Fidelity?node-id=0-1&t=aNHOdrZyMgryi023-1)
 
-## High Fidelity Wireframe & Prototype
+## High Fidelity Wireframe 
 - [**High Fidelity Wireframe & Prototype**](https://www.figma.com/design/KgEVuwBkTFKNAIYkM0lM0s/Prototype?node-id=0-1&t=ZmUyY5xU1qdv8pUr-1)
+  
+##  Prototype
+- [**Prototype**](https://www.figma.com/design/KgEVuwBkTFKNAIYkM0lM0s/Prototype?node-id=0-1&t=ZmUyY5xU1qdv8pUr-1](https://www.figma.com/proto/KgEVuwBkTFKNAIYkM0lM0s/Prototype?node-id=0-1&t=ZmUyY5xU1qdv8pUr-1))
 
   
 ![FlixiFy](https://github.com/user-attachments/assets/23e3c82a-b9fe-45ce-b667-4b6fc75ce53d)
