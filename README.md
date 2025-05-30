@@ -16,4 +16,5 @@
 - [**Prototype**](https://www.figma.com/proto/KgEVuwBkTFKNAIYkM0lM0s/Prototype?node-id=0-1&t=ZmUyY5xU1qdv8pUr-1)
 
   
-![FlixiFy](https://github.com/user-attachments/assets/23e3c82a-b9fe-45ce-b667-4b6fc75ce53d)
+![FlixiFy](https://github.com/user-attachments/assets/5a67edf9-8539-422a-8417-63ab6c21f3c2)
+![FlixiFy (1)](https://github.com/user-attachments/assets/cddbca87-3a0d-4cf2-bad0-39bb86efa0db)
